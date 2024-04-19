@@ -3,7 +3,7 @@ let resetbtn = document.querySelector('#reset-btn');
 let newGamebtn = document.querySelector('#new-btn');
 let msgContainer = document.querySelector('.msg-container');
 let msgPara = document.querySelector('#msg');
-//ADdinds a comment
+
 let turnO = true;
 
 const winPatterns = [
